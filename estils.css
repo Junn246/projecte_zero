@@ -1,6 +1,7 @@
 body{
     background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-	font-family: Verdana;
+	font-family: Papyrus;
+	
 }
 .contact-form{
     background: #fff;
@@ -30,7 +31,7 @@ body{
     margin-bottom: 8%;
     margin-top: -10%;
     text-align: center;
-    color: #0062cc;
+    color: #00ff00;
 }
 .contact-form .btnContact {
     width: 50%;
